@@ -5,6 +5,6 @@
 
 
 ### `Features`
-Goggle Map API 
-Axios
-Material-ui Core / icons / lab
+Goggle Map API \
+Axios\
+Material-ui Core / icons / lab \
