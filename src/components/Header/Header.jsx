@@ -3,7 +3,11 @@ import { Autocomplete } from "@react-google-maps/api";
 import { AppBar, Toolbar, Typography, InputBase, Box } from "@material-ui/core";
 import SearchIcon from "@material-ui/icons/Search";
 
+import useStyle from './styles' 
+
 function Header() {
+const classes = useStyle();
+
   return (
     <AppBar position="static">
       <Toolbar className={classes.toolbar}>
